@@ -1,0 +1,38 @@
+[
+    {
+        "url": "https://thumbs.dreamstime.com/b/red-apple-isolated-clipping-path-19130134.jpg",
+        "name": "Apple",
+        "price": 25,
+        "id": 1
+    },
+    {
+        "url": "https://5.imimg.com/data5/VU/MR/MY-24751011/purple-grapes.jpg",
+        "name": "Grapes",
+        "price": 20,
+        "id": 2
+    },
+    {
+        "url": "https://www.abcfruits.net/wp-content/uploads/2023/02/IQF-pink-guava-dice.png",
+        "name": "Guava",
+        "price": 15,
+        "id": 3
+    },
+    {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_60229733-e225-4ef7-bd7f-b9d315977744",
+        "name": "Peach",
+        "price": 20,
+        "id": 4
+    },
+    {
+        "url": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/whole-and-slices-watermelon.jpg",
+        "name": "Watermelon",
+        "price": 15,
+        "id": 5
+    },
+    {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg",
+        "name": "Banana",
+        "price": 10,
+        "id": 6
+    }
+]
